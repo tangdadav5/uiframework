@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/tools/pyselenium.py" line="95" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="224abf6e-e7b0-43e1-bde5-540adcac13fe" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/uiframework$read_yaml.coverage" NAME="read_yaml Coverage Results" MODIFIED="1567679468526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/uiframework$run_case.coverage" NAME="run_case Coverage Results" MODIFIED="1567758154327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1037908544">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="log" value="2" />
+          <entry key="py" value="25" />
+          <entry key="txt" value="2" />
+          <entry key="yaml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="25" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="44" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="classnote" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/config_path.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result/logs/2019-09-06_16-22-34.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tools/logger.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/test_web.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="760">
+              <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/test_ketang.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <folding>
+                <element signature="e#24#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/read_yaml.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run_case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+              <folding>
+                <element signature="e#24#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pagas/ketang_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/data.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="27" selection-start-column="27" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>iskeyword</find>
+      <find>!</find>
+      <find>总结</find>
+      <find>warning</find>
+      <find>error</find>
+      <find>test_home</find>
+      <find>method</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>！</replace>
+      <replace>error</replace>
+      <replace>locator</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tools/init_browser.py" />
+        <option value="$PROJECT_DIR$/os_test.py" />
+        <option value="$PROJECT_DIR$/tools/keyword2.py" />
+        <option value="$PROJECT_DIR$/report.py" />
+        <option value="$PROJECT_DIR$/tools/report.py" />
+        <option value="$PROJECT_DIR$/tools/read.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/venv/baiduhander.py" />
+        <option value="$PROJECT_DIR$/tools/send_mail.py" />
+        <option value="$PROJECT_DIR$/testcase/unittestBaidu.py" />
+        <option value="$PROJECT_DIR$/class_note/1.py" />
+        <option value="$PROJECT_DIR$/class_note/class06_文件操作.py" />
+        <option value="$PROJECT_DIR$/tools/test.py" />
+        <option value="$PROJECT_DIR$/class_note/class19_robotframe.html" />
+        <option value="$PROJECT_DIR$/class_note/class19_robotframe.py" />
+        <option value="$PROJECT_DIR$/RF/class01.robot" />
+        <option value="$PROJECT_DIR$/infowindow.py" />
+        <option value="$PROJECT_DIR$/baiduhander.py" />
+        <option value="$PROJECT_DIR$/class_note/class20.py" />
+        <option value="$PROJECT_DIR$/RF/class02.robot.py" />
+        <option value="$PROJECT_DIR$/RF/sendEmail.py" />
+        <option value="$PROJECT_DIR$/RF/variables.robot" />
+        <option value="$PROJECT_DIR$/RF/pages/loginpage.robot" />
+        <option value="$PROJECT_DIR$/RF/keywords.robot" />
+        <option value="$PROJECT_DIR$/RF/class02.robot" />
+        <option value="$PROJECT_DIR$/testcase/test_strar.py" />
+        <option value="$PROJECT_DIR$/testcase/test_zzdx.py" />
+        <option value="$PROJECT_DIR$/RF/class03.robot" />
+        <option value="$PROJECT_DIR$/class_note/class21.py" />
+        <option value="$PROJECT_DIR$/RF/tools/keywords.robot" />
+        <option value="$PROJECT_DIR$/config/config.py" />
+        <option value="$PROJECT_DIR$/tools/logger.py" />
+        <option value="$PROJECT_DIR$/testcase/initunittest.py" />
+        <option value="$PROJECT_DIR$/testcase/test_case.py" />
+        <option value="$PROJECT_DIR$/class_note/class13_selenium_定位方法与鼠标键盘操作.py" />
+        <option value="$PROJECT_DIR$/pagas/baidu_page.py" />
+        <option value="$PROJECT_DIR$/testcase/test_baidu.py" />
+        <option value="$PROJECT_DIR$/pagas/ketang_page.py" />
+        <option value="$PROJECT_DIR$/tools/browser.py" />
+        <option value="$PROJECT_DIR$/find_file.html" />
+        <option value="$PROJECT_DIR$/homework/邮件发送.py" />
+        <option value="$PROJECT_DIR$/tools/1.py" />
+        <option value="$PROJECT_DIR$/find_file.py" />
+        <option value="$PROJECT_DIR$/tools/sendmail.py" />
+        <option value="$PROJECT_DIR$/homework/99乘法表.py" />
+        <option value="$PROJECT_DIR$/tools/pyselenium.py" />
+        <option value="$PROJECT_DIR$/testcase/test_ketang.py" />
+        <option value="$PROJECT_DIR$/tools/read_yaml.py" />
+        <option value="$PROJECT_DIR$/run_case.py" />
+        <option value="$PROJECT_DIR$/config/data.yaml" />
+        <option value="$PROJECT_DIR$/tools/config_path.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="188" />
+    <option name="y" value="59" />
+    <option name="width" value="1500" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
+      <autoscrollToSource ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="false" />
+      <sortByType ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="classnote" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="F:\PycharmProjects\classnote" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="uiframework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uiframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uiframework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uiframework" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PycharmProjects\classnote\RF" />
+      <recent name="F:\PycharmProjects\classnote\RF\data" />
+      <recent name="F:\PycharmProjects\classnote\RF\config" />
+      <recent name="F:\PycharmProjects\classnote\RF\tools" />
+      <recent name="F:\PycharmProjects\classnote" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonCode\uiframework\tools" />
+      <recent name="D:\PythonCode\uiframework" />
+      <recent name="F:\PycharmProjects\classnote\tools" />
+      <recent name="F:\PycharmProjects\classnote\homework" />
+      <recent name="F:\PycharmProjects\classnote\logs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run_case">
+    <configuration name="字符串大写" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="classnote" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/字符串大写.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="99乘法表" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="classnote" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/99乘法表.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="find_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="classnote" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_yaml" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="classnote" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/read_yaml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="classnote" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run_case" />
+      <item itemvalue="Python.find_file" />
+      <item itemvalue="Python.字符串大写" />
+      <item itemvalue="Python.99乘法表" />
+      <item itemvalue="Python.read_yaml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_case" />
+        <item itemvalue="Python.read_yaml" />
+        <item itemvalue="Python.99乘法表" />
+        <item itemvalue="Python.字符串大写" />
+        <item itemvalue="Python.find_file" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ASUS\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="224abf6e-e7b0-43e1-bde5-540adcac13fe" name="Default Changelist" comment="" />
+      <created>1562078204373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562078204373</updated>
+      <workItem from="1562078206781" duration="777000" />
+      <workItem from="1562079064518" duration="93000" />
+      <workItem from="1562079299201" duration="22000" />
+      <workItem from="1562079447112" duration="63000" />
+      <workItem from="1562242581401" duration="6102000" />
+      <workItem from="1562414393221" duration="184000" />
+      <workItem from="1562414601739" duration="6557000" />
+      <workItem from="1562672162957" duration="7819000" />
+      <workItem from="1562682546971" duration="1598000" />
+      <workItem from="1562758316412" duration="4779000" />
+      <workItem from="1562764514033" duration="601000" />
+      <workItem from="1562846334368" duration="8002000" />
+      <workItem from="1562860105977" duration="502000" />
+      <workItem from="1562991696222" duration="1200000" />
+      <workItem from="1563019202725" duration="8001000" />
+      <workItem from="1563027353613" duration="2198000" />
+      <workItem from="1563068097943" duration="948000" />
+      <workItem from="1563191336031" duration="1134000" />
+      <workItem from="1563194924904" duration="1650000" />
+      <workItem from="1563247791386" duration="221000" />
+      <workItem from="1563249386984" duration="1165000" />
+      <workItem from="1563278590427" duration="7935000" />
+      <workItem from="1563369480201" duration="81000" />
+      <workItem from="1563450377717" duration="12923000" />
+      <workItem from="1563535846019" duration="2156000" />
+      <workItem from="1563588111486" duration="1821000" />
+      <workItem from="1563589949241" duration="4242000" />
+      <workItem from="1563613416123" duration="11685000" />
+      <workItem from="1563692316546" duration="6110000" />
+      <workItem from="1563700369001" duration="95000" />
+      <workItem from="1563708376029" duration="6272000" />
+      <workItem from="1563877297228" duration="18359000" />
+      <workItem from="1563948311022" duration="1823000" />
+      <workItem from="1563950230803" duration="1697000" />
+      <workItem from="1563953051808" duration="967000" />
+      <workItem from="1563965310133" duration="3794000" />
+      <workItem from="1564293420577" duration="1809000" />
+      <workItem from="1564296753972" duration="11298000" />
+      <workItem from="1564487960035" duration="8695000" />
+      <workItem from="1564574970757" duration="614000" />
+      <workItem from="1564658700041" duration="50000" />
+      <workItem from="1564658767885" duration="8785000" />
+      <workItem from="1564822017948" duration="2052000" />
+      <workItem from="1564919749385" duration="7311000" />
+      <workItem from="1564927074681" duration="12000" />
+      <workItem from="1564927121124" duration="2445000" />
+      <workItem from="1565092908858" duration="5815000" />
+      <workItem from="1565170921727" duration="6442000" />
+      <workItem from="1565178725229" duration="534000" />
+      <workItem from="1565179274194" duration="2144000" />
+      <workItem from="1565181478539" duration="1447000" />
+      <workItem from="1565182930096" duration="638000" />
+      <workItem from="1565183833348" duration="2131000" />
+      <workItem from="1565185994343" duration="7000" />
+      <workItem from="1565187340542" duration="330000" />
+      <workItem from="1565187867054" duration="186000" />
+      <workItem from="1565245251625" duration="5200000" />
+      <workItem from="1565418939570" duration="10539000" />
+      <workItem from="1565430151624" duration="1002000" />
+      <workItem from="1565438455348" duration="9848000" />
+      <workItem from="1565448504312" duration="1580000" />
+      <workItem from="1565487758921" duration="929000" />
+      <workItem from="1565510671707" duration="551000" />
+      <workItem from="1565579100455" duration="3970000" />
+      <workItem from="1565583104067" duration="555000" />
+      <workItem from="1565663384577" duration="503000" />
+      <workItem from="1565663924487" duration="7640000" />
+      <workItem from="1565694095578" duration="13945000" />
+      <workItem from="1565709985375" duration="3915000" />
+      <workItem from="1565757588862" duration="2813000" />
+      <workItem from="1565869551967" duration="8519000" />
+      <workItem from="1565878146565" duration="1250000" />
+      <workItem from="1565883377605" duration="2814000" />
+      <workItem from="1565923355589" duration="3253000" />
+      <workItem from="1566041504962" duration="7438000" />
+      <workItem from="1566049026051" duration="3901000" />
+      <workItem from="1566052950289" duration="4923000" />
+      <workItem from="1566057915714" duration="633000" />
+      <workItem from="1566118608126" duration="18883000" />
+      <workItem from="1566186382090" duration="7294000" />
+      <workItem from="1566290138488" duration="33000" />
+      <workItem from="1566290481707" duration="50000" />
+      <workItem from="1566290536507" duration="49000" />
+      <workItem from="1566290659487" duration="2831000" />
+      <workItem from="1566304162335" duration="6357000" />
+      <workItem from="1566311133756" duration="478000" />
+      <workItem from="1566398149565" duration="612000" />
+      <workItem from="1566464536656" duration="1671000" />
+      <workItem from="1566466959684" duration="4949000" />
+      <workItem from="1566740530116" duration="249000" />
+      <workItem from="1566740813232" duration="878000" />
+      <workItem from="1566906990646" duration="1291000" />
+      <workItem from="1567050543973" duration="527000" />
+      <workItem from="1567066930045" duration="711000" />
+      <workItem from="1567079953112" duration="1691000" />
+      <workItem from="1567154266855" duration="18735000" />
+      <workItem from="1567229776094" duration="6808000" />
+      <workItem from="1567246424657" duration="4299000" />
+      <workItem from="1567306355903" duration="2099000" />
+      <workItem from="1567312560258" duration="2016000" />
+      <workItem from="1567498172741" duration="1353000" />
+      <workItem from="1567595521544" duration="631000" />
+      <workItem from="1567608124764" duration="699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_unittestBaidu_TestCase - 2019.08.17 at 22h 17m 44s.xml">
+      <configuration name="Unittests for unittestBaidu.TestCase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_unittestBaidu_TestCase - 2019.08.17 at 22h 20m 24s.xml">
+      <configuration name="Unittests for unittestBaidu.TestCase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_unittestTest_TestCaseLogin_test_click - 2019.08.17 at 23h 08m 04s.xml">
+      <configuration name="Unittests for unittestTest.TestCaseLogin.test_click" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_unittestBaidu_TestCaseBaidu_test_case2 - 2019.08.22 at 17h 24m 00s.xml">
+      <configuration name="Unittests for unittestBaidu.TestCaseBaidu.test_case2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_case_TestCase2 - 2019.08.30 at 17h 16m 32s.xml">
+      <configuration name="Unittests for test_case.TestCase2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_case_TestCase1 - 2019.08.30 at 17h 16m 44s.xml">
+      <configuration name="Unittests for test_case.TestCase1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_case_TestCase2_test_case2 - 2019.08.30 at 17h 17m 19s.xml">
+      <configuration name="Unittests for test_case.TestCase2.test_case2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_case_TestCase2 - 2019.08.30 at 17h 17m 51s.xml">
+      <configuration name="Unittests for test_case.TestCase2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_case_TestCase1 - 2019.08.30 at 17h 23m 39s.xml">
+      <configuration name="Unittests for test_case.TestCase1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_ketang_TestCaseKeTang - 2019.08.30 at 23h 07m 38s.xml">
+      <configuration name="Unittests for test_ketang.TestCaseKeTang" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="377236000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4964539" visible="true" weight="0.21015424" />
+      <window_info id="Structure" order="1" sideWeight="0.5035461" side_tool="true" weight="0.25792813" />
+      <window_info id="Favorites" order="2" sideWeight="0.5035461" side_tool="true" weight="0.25792813" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3231788" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4984127" visible="true" weight="0.2678331" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3642132" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.31897712" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50158733" side_tool="true" weight="0.30306748" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.41991925" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32543445" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" show_stripe_button="false" weight="0.32936078" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.3280507" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3296355" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_ddt_test_test_ddt.coverage" NAME="Unittests for ddt_test.test_ddt Coverage Results" MODIFIED="1565581588565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$test_zzdx.coverage" NAME="test_zzdx Coverage Results" MODIFIED="1566465060247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_test_case_TestCase2.coverage" NAME="Unittests for test_case.TestCase2 Coverage Results" MODIFIED="1567156670901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$class02.coverage" NAME="class02 Coverage Results" MODIFIED="1563589841891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$123.coverage" NAME="123 Coverage Results" MODIFIED="1565694356320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$find_file.coverage" NAME="find_file Coverage Results" MODIFIED="1567326248281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$.coverage" NAME="字符串大写 Coverage Results" MODIFIED="1567596095856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/classnote$class05.coverage" NAME="class05 Coverage Results" MODIFIED="1563596343529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$keyword.coverage" NAME="keyword Coverage Results" MODIFIED="1565184027294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$class11.coverage" NAME="class11 Coverage Results" MODIFIED="1564320099982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$class06_.coverage" NAME="class06_文件操作 Coverage Results" MODIFIED="1566138873290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_note" />
+    <SUITE FILE_PATH="coverage/classnote$keyword__1_.coverage" NAME="keyword (1) Coverage Results" MODIFIED="1565183990300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testbrowser" />
+    <SUITE FILE_PATH="coverage/classnote$read_yaml.coverage" NAME="read_yaml Coverage Results" MODIFIED="1567155961951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$111.coverage" NAME="111 Coverage Results" MODIFIED="1565180300581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$class17_unittest.coverage" NAME="class17_unittest Coverage Results" MODIFIED="1565873595022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$baiduhander__1_.coverage" NAME="baiduhander (1) Coverage Results" MODIFIED="1566136421619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_unittestBaidu_TestCaseBaidu_test_case2.coverage" NAME="Unittests for unittestBaidu.TestCaseBaidu.test_case2 Coverage Results" MODIFIED="1566465839691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_unittestTest_UntitledTestCase_test_click.coverage" NAME="Unittests for unittestTest.UntitledTestCase.test_click Coverage Results" MODIFIED="1565707574403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$1.coverage" NAME="1 Coverage Results" MODIFIED="1567252241773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$class08.coverage" NAME="class08 Coverage Results" MODIFIED="1563465839350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_test_ketang_TestCaseKeTang.coverage" NAME="Unittests for test_ketang.TestCaseKeTang Coverage Results" MODIFIED="1567177658663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$read_yaml__1_.coverage" NAME="read_yaml (1) Coverage Results" MODIFIED="1565583559638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$class10_.coverage" NAME="class10_数据库操作 Coverage Results" MODIFIED="1563887424498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_51testing_UntitledTestCase.coverage" NAME="Unittests for 51testing.UntitledTestCase Coverage Results" MODIFIED="1565705866490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_test_case_TestCase2_test_case2.coverage" NAME="Unittests for test_case.TestCase2.test_case2 Coverage Results" MODIFIED="1567156639563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$class09_.coverage" NAME="class09_面向对象 Coverage Results" MODIFIED="1563951856020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$browser__2_.coverage" NAME="browser (2) Coverage Results" MODIFIED="1565184174510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testbrowser" />
+    <SUITE FILE_PATH="coverage/classnote$unittestBaidu.coverage" NAME="unittestBaidu Coverage Results" MODIFIED="1567156220717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$class09.coverage" NAME="class09 Coverage Results" MODIFIED="1563537947270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$class03.coverage" NAME="class03 Coverage Results" MODIFIED="1563591717360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$browser__4_.coverage" NAME="browser (4) Coverage Results" MODIFIED="1565182206754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$class18_report.coverage" NAME="class18_report Coverage Results" MODIFIED="1565925624161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$baiduhander.coverage" NAME="baiduhander Coverage Results" MODIFIED="1566133485832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/classnote$keyword2.coverage" NAME="keyword2 Coverage Results" MODIFIED="1565447311573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$class13_selenium.coverage" NAME="class13_selenium Coverage Results" MODIFIED="1564668331716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$sendmail.coverage" NAME="sendmail Coverage Results" MODIFIED="1567246866361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$class04_02.coverage" NAME="class04_数据类型02 Coverage Results" MODIFIED="1563715055349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$browser1.coverage" NAME="browser1 Coverage Results" MODIFIED="1565181999364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_51testing_UntitledTestCase_test_untitled_test_case.coverage" NAME="Unittests for 51testing.UntitledTestCase.test_untitled_test_case Coverage Results" MODIFIED="1565705480121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$send_mail.coverage" NAME="send_mail Coverage Results" MODIFIED="1566136830317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$keyword1.coverage" NAME="keyword1 Coverage Results" MODIFIED="1565430999838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_class18_report_TestCaseLogin2.coverage" NAME="Unittests for class18_report.TestCaseLogin2 Coverage Results" MODIFIED="1565874548194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_in_ddt_test_py.coverage" NAME="Unittests in ddt_test.py Coverage Results" MODIFIED="1565580903724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_ddt_test_UntitledTestCase_test_untitled_test_case.coverage" NAME="Unittests for ddt_test.UntitledTestCase.test_untitled_test_case Coverage Results" MODIFIED="1565581910759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$browser__1_.coverage" NAME="browser (1) Coverage Results" MODIFIED="1565183079294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$run_case.coverage" NAME="run_case Coverage Results" MODIFIED="1567326617644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_ddt_test_UntitledTestCase.coverage" NAME="Unittests for ddt_test.UntitledTestCase Coverage Results" MODIFIED="1565581783696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$class04.coverage" NAME="class04 Coverage Results" MODIFIED="1562763097460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$unittestTest.coverage" NAME="unittestTest Coverage Results" MODIFIED="1566054505938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_unittestBaidu_TestCase.coverage" NAME="Unittests for unittestBaidu.TestCase Coverage Results" MODIFIED="1566051612216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$browser__3_.coverage" NAME="browser (3) Coverage Results" MODIFIED="1565182224274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$ddt_test.coverage" NAME="ddt_test Coverage Results" MODIFIED="1565582193218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$infowindow.coverage" NAME="infowindow Coverage Results" MODIFIED="1566206959479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$init_browser.coverage" NAME="init_browser Coverage Results" MODIFIED="1565690305067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_class17_unittest_TestCaseLogin_test_case3.coverage" NAME="Unittests for class17_unittest.TestCaseLogin.test_case3 Coverage Results" MODIFIED="1565877641870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$os_test__1_.coverage" NAME="os_test (1) Coverage Results" MODIFIED="1566125898807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$config.coverage" NAME="config Coverage Results" MODIFIED="1567050767209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/classnote$class12_selenium.coverage" NAME="class12_selenium Coverage Results" MODIFIED="1564496573162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$baidu.coverage" NAME="baidu Coverage Results" MODIFIED="1565923518761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_unittestBaidu_TestCase_test_case1.coverage" NAME="Unittests for unittestBaidu.TestCase.test_case1 Coverage Results" MODIFIED="1566048563944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$keymethod.coverage" NAME="keymethod Coverage Results" MODIFIED="1565174647913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webuitools" />
+    <SUITE FILE_PATH="coverage/classnote$test.coverage" NAME="test Coverage Results" MODIFIED="1566199202122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$test_baidu.coverage" NAME="test_baidu Coverage Results" MODIFIED="1567167127510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_in_unittest_py.coverage" NAME="Unittests in unittestTest.py Coverage Results" MODIFIED="1565707750470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1565250577341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$class07_.coverage" NAME="class07_函数 Coverage Results" MODIFIED="1563714576775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$excel.coverage" NAME="转换excel Coverage Results" MODIFIED="1563592079257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_in_51testing_py.coverage" NAME="Unittests in 51testing.py Coverage Results" MODIFIED="1565449576341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_test_case_TestCase1.coverage" NAME="Unittests for test_case.TestCase1 Coverage Results" MODIFIED="1567157019334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$claaa06.coverage" NAME="claaa06 Coverage Results" MODIFIED="1563028213344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_class18_report_TestCaseLogin2_test_case2.coverage" NAME="Unittests for class18_report.TestCaseLogin2.test_case2 Coverage Results" MODIFIED="1565874414536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$yaml.coverage" NAME="yaml Coverage Results" MODIFIED="1565181299944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$class06.coverage" NAME="class06 Coverage Results" MODIFIED="1563616913367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$read.coverage" NAME="read Coverage Results" MODIFIED="1566130199719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$class10___1_.coverage" NAME="class10_数据库操作 (1) Coverage Results" MODIFIED="1563965669237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$HTMLTestRunner.coverage" NAME="HTMLTestRunner Coverage Results" MODIFIED="1565885181168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$browser.coverage" NAME="browser Coverage Results" MODIFIED="1567157970565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/classnote$class14_selenium_.coverage" NAME="class14_selenium_等待时间 Coverage Results" MODIFIED="1565096543153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$class16_selenium.coverage" NAME="class16_selenium Coverage Results" MODIFIED="1565441853654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$class13_selenium_.coverage" NAME="class13_selenium_定位方法与鼠标键盘操作 Coverage Results" MODIFIED="1567165141600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_note" />
+    <SUITE FILE_PATH="coverage/classnote$class01_.coverage" NAME="class01_环境搭建 Coverage Results" MODIFIED="1565876205815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$class15_selenium_.coverage" NAME="class15_selenium_封装 Coverage Results" MODIFIED="1565182377648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$class16_selenium_.coverage" NAME="class16_selenium_判断元素 Coverage Results" MODIFIED="1565488658549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$os_test.coverage" NAME="os_test Coverage Results" MODIFIED="1566125866171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$99.coverage" NAME="99乘法表 Coverage Results" MODIFIED="1567596144294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/classnote$yaml__1_.coverage" NAME="yaml (1) Coverage Results" MODIFIED="1565180908356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$class08_.coverage" NAME="class08_邮件发送 Coverage Results" MODIFIED="1563885225984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$report.coverage" NAME="report Coverage Results" MODIFIED="1566126588170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$class12_selenium_.coverage" NAME="class12_selenium_浏览器操作 Coverage Results" MODIFIED="1564823141892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_unittestTest_TestCaseLogin.coverage" NAME="Unittests for unittestTest.TestCaseLogin Coverage Results" MODIFIED="1565707953440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_unittestTest_UntitledTestCase.coverage" NAME="Unittests for unittestTest.UntitledTestCase Coverage Results" MODIFIED="1565707999608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_class18_report_TestCaseLogin2_test_case3.coverage" NAME="Unittests for class18_report.TestCaseLogin2.test_case3 Coverage Results" MODIFIED="1565874541209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$class01.coverage" NAME="class01 Coverage Results" MODIFIED="1562244639688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_for_unittestTest_TestCaseLogin_test_click.coverage" NAME="Unittests for unittestTest.TestCaseLogin.test_click Coverage Results" MODIFIED="1566054473097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/classnote$class07.coverage" NAME="class07 Coverage Results" MODIFIED="1563456019853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/classnote$Unittests_in_class18_report_py.coverage" NAME="Unittests in class18_report.py Coverage Results" MODIFIED="1565925632987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_note" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RF/config/variables.robot" />
+    <entry file="file://$PROJECT_DIR$/RF/pages/loginpage.robot" />
+    <entry file="file://$PROJECT_DIR$/class_note/class21.py" />
+    <entry file="file://$PROJECT_DIR$/config/config.py" />
+    <entry file="file://$PROJECT_DIR$/RF/class03.robot" />
+    <entry file="file://$PROJECT_DIR$/RF/class02.robot" />
+    <entry file="file://$PROJECT_DIR$/result/SCRshot/2019-08-30_17-08-15.png" />
+    <entry file="file://$PROJECT_DIR$/result/SCRshot/2019-08-30_17-08-26.png" />
+    <entry file="file://$PROJECT_DIR$/tools/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="39" column="36" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="39" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/initunittest.py" />
+    <entry file="file://D:/Python37/Lib/site-packages/SeleniumLibrary/keywords/element.py" />
+    <entry file="file://$PROJECT_DIR$/RF/tools/keywords.robot" />
+    <entry file="file://$PROJECT_DIR$/result/SCRshot/2019-08-30_18-06-02.png" />
+    <entry file="file://$PROJECT_DIR$/result/logs/2019-08-30_18-18-54.log" />
+    <entry file="file://$PROJECT_DIR$/class_note/class13_selenium_定位方法与鼠标键盘操作.py" />
+    <entry file="file://D:/Python37/Lib/site-packages/selenium/webdriver/common/by.py" />
+    <entry file="file://$PROJECT_DIR$/result/logs/2019-08-30_20-00-41.log" />
+    <entry file="file://$PROJECT_DIR$/class_note/class08_邮件发送.py" />
+    <entry file="file://D:/Python37/Lib/site-packages/selenium/webdriver/support/wait.py" />
+    <entry file="file://D:/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
+    <entry file="file://$PROJECT_DIR$/requirement.txt" />
+    <entry file="file://D:/Python37/Lib/site-packages/selenium/webdriver/support/expected_conditions.py" />
+    <entry file="file://$PROJECT_DIR$/find_file.html" />
+    <entry file="file://$PROJECT_DIR$/homework/邮件发送.py" />
+    <entry file="file://$PROJECT_DIR$/tools/1.py" />
+    <entry file="file://$PROJECT_DIR$/class_note/class18_report.py" />
+    <entry file="file://$PROJECT_DIR$/find_file.py" />
+    <entry file="file://$PROJECT_DIR$/homework/字符串大写.py" />
+    <entry file="file://$PROJECT_DIR$/homework/数据库操作.py" />
+    <entry file="file://$PROJECT_DIR$/homework/数组单数字符串大写.py" />
+    <entry file="file://$PROJECT_DIR$/homework/99乘法表.py" />
+    <entry file="file://$PROJECT_DIR$/result/report/UI自动化测试报告2019-09-05_18-28-00.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/logs/2019-09-05_18-28-00.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/51testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14966">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/sendmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="54" column="31" lean-forward="true" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagas/baidu_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/pyselenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="e#24#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/browser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="e#24#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_baidu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_ketang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#24#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/read_yaml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagas/ketang_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/data.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/config_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/logs/2019-09-06_16-22-34.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20502645" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
